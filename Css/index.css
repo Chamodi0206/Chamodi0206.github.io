@@ -84,7 +84,7 @@ body {
 }
 
 .mydetails img {
-  animation: fadeIn 10s linear forwards;
+  animation: fadeIn 5s linear forwards;
 }
 
 @keyframes fadeIn {
